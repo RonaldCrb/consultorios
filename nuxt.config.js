@@ -34,14 +34,6 @@ export default {
    */
   css: ['~/assets/style/app.styl'],
 
-  env: {
-    fbAPIkey: 'AIzaSyA_oZ07aJif676EqYMcKmzFhXnWHsBtgpg',
-    authDomain: 'consultorios-2c946.firebaseapp.com',
-    databaseURL: `https://consultorios-2c946.firebaseio.com`,
-    projectId: `consultorios-2c946`,
-    storageBucket: `consultorios-2c946.appspot.com`,
-    messagingSenderId: `656452454310`
-  },
   /*
    ** Plugins to load before mounting the App
    */
